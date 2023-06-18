@@ -22,7 +22,7 @@ title: <thoughts><bin>
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   I am a doctor, software developer, photographer and expecting a baby from my lovely wife.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/thoughts-bin" # the subpath of your site, e.g. /blog
 url: "https://yethihahtwe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yethihahtwe
 github_username:  yethihahtwe
