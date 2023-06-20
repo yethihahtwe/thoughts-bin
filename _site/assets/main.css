@@ -646,4 +646,57 @@ table td {
   color: #099;
 }
 
+body {
+  background-color: #1b1b1b;
+  color: #c4c4c4;
+}
+
+.site-title, .site-title:visited {
+  margin-bottom: -10px;
+  text-decoration: none;
+  color: #252525;
+  font-size: 1.5em;
+  padding: 10px;
+  background-color: #d9d9d9;
+  border-radius: 8px;
+}
+
+.site-title:hover {
+  text-decoration: none;
+}
+
+.site-nav .page-link {
+  color: #252525;
+  background-color: #d9d9d9;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.site-nav .page-link:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: #000;
+}
+
+a {
+  color: #95ff1b;
+}
+
+a:hover {
+  color: #95ff1b;
+}
+
+a:visited {
+  color: #95ff1b;
+}
+
+code, pre {
+  background-color: #000;
+  border: none;
+}
+
+.highlight {
+  background: #000;
+}
+
 /*# sourceMappingURL=main.css.map */

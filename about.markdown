@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi! I am Ye Thi Ha Htwe. I was a doctor in Burma. Currently a software developer in Thailand. I create medical and pharmaceutical mobile and web applications as I can do both a medical app consultant and a developer at the same time. I am expecting a baby girl from my lovely wife.<br />
+Contact me by sending an [email](mailto:yethihahtwe319@gmail.com).
