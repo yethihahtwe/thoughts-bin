@@ -661,6 +661,11 @@ body {
   border-radius: 8px;
 }
 
+p {
+  font-size: 0.8em;
+  line-height: 2em;
+}
+
 .site-title:hover {
   text-decoration: none;
 }
