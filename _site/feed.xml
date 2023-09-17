@@ -1,5 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/thoughts-bin/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/thoughts-bin/" rel="alternate" type="text/html" /><updated>2023-06-25T20:39:04+07:00</updated><id>http://localhost:4000/thoughts-bin/feed.xml</id><title type="html">&lt;thoughts&gt;&lt;bin&gt;
-&lt;/bin&gt;&lt;/thoughts&gt;</title><subtitle>I am a doctor, software developer, photographer and expecting a baby girl from my lovely wife.</subtitle><entry><title type="html">DIY Headlight Renovation</title><link href="http://localhost:4000/thoughts-bin/diy/2023/06/25/headlight-renovation.html" rel="alternate" type="text/html" title="DIY Headlight Renovation" /><published>2023-06-25T17:30:21+07:00</published><updated>2023-06-25T17:30:21+07:00</updated><id>http://localhost:4000/thoughts-bin/diy/2023/06/25/headlight-renovation</id><content type="html" xml:base="http://localhost:4000/thoughts-bin/diy/2023/06/25/headlight-renovation.html"><![CDATA[<p><img src="../../../../assets/images/featured_image.png" style="zoom:50%" /><br /><br />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/thoughts-bin/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/thoughts-bin/" rel="alternate" type="text/html" /><updated>2023-09-17T15:25:42+07:00</updated><id>http://localhost:4000/thoughts-bin/feed.xml</id><title type="html">&lt;thoughts&gt;&lt;bin&gt;
+&lt;/bin&gt;&lt;/thoughts&gt;</title><subtitle>I am a doctor, software developer, photographer and expecting a baby girl from my lovely wife.</subtitle><entry><title type="html">How to Backup IMAP mail using python script on Mac</title><link href="http://localhost:4000/thoughts-bin/python/2023/09/14/backup_imap_mail_mac.html" rel="alternate" type="text/html" title="How to Backup IMAP mail using python script on Mac" /><published>2023-09-14T00:15:21+07:00</published><updated>2023-09-14T00:15:21+07:00</updated><id>http://localhost:4000/thoughts-bin/python/2023/09/14/backup_imap_mail_mac</id><content type="html" xml:base="http://localhost:4000/thoughts-bin/python/2023/09/14/backup_imap_mail_mac.html"><![CDATA[<p><img src="../../../../assets/images/featured_image.png" style="zoom:50%" /><br /><br />
+Today, I want to share with you how to restore your headlights using a GETSUN headlight renovation kit. I bought it from Mr.DIY and it was 69 THB. So it’s worth trying at home.
+I’m doing it in the middle of a rainy season when you don’t usually get a desired outcome mostly because of the humidity. I would recommend you to try this process when it is not raining or less humid.
+The concept of headlight renovation is abrasion. Almost all of the steps in headlight renovation include usage of abrasive materials. And of course, rubbing with sandpaper produces dust.To protect yourself from inhaling dust and to keep the entire process tidy, spray water before, during and after rubbing with sandpaper.</p>
+
+<p>The package includes -<br /><br />
+<img src="../../../../assets/images/getsun_package.png" style="zoom:50%;" /></p>
+<ul>
+  <li>a piece of 500 grit sandpaper</li>
+  <li>a piece of 800 grit sandpaper</li>
+  <li>a piece of 1200 grit sandpaper</li>
+  <li>a piece of 2000 grit sandpaper</li>
+  <li>a non-woven towel</li>
+  <li>a foam</li>
+  <li>a 30ml bottle of silica resin</li>
+</ul>
+
+<p>This is the look of the headlight before starting the renovation.<br />
+<img src="../../../../assets/images/before_renovation.png" style="zoom:50%;" /></p>
+<h4 id="here-are-the-steps">Here are the steps</h4>
+<ol>
+  <li>Make sure you cover up the surroundings of the headight. Use tape or masking paper whatever available.<br />
+<img src="../../../../assets/images/tape_cover.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Spray headlight with water.<br />
+<img src="../../../../assets/images/initial_spray.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Start with 500 grit sandpaper. Fold it in half so that you could one half for one headlight.<br />
+<img src="../../../../assets/images/sand_paper.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Rub the headlight with sandpaper. Make sure you apply adequate pressure while rubbing and rub evenly in circular motion across the surface of the headlight. Make sure you rub and spray with water at the same time to produce less dust.<br />
+<img src="../../../../assets/images/initial_rub.png" style="zoom:50%;" /><br /><br /></li>
+  <li>This is what it looks like after rubbing with 500 grit. Repeat the same step with 800 grit sandpaper.<br />
+<img src="../../../../assets/images/rub_1.png" style="zoom:50%;" /><br /><br /></li>
+  <li>This is after rubbing with 800 grit.<br />
+<img src="../../../../assets/images/rub_2.png" style="zoom:50%;" /><br /><br /></li>
+  <li>This is after rubbing with 1200 grit.<br />
+<img src="../../../../assets/images/rub_3.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Then after 2000 grit. The finer the grit, the headlight’s surface will get more shiny. If a cetain area remained opaque or less shiny, you can repeat the above steps.<br />
+<img src="../../../../assets/images/rub_4.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Rub the headlight with the wool side of the foam to make it least scratchy.<br />
+<img src="../../../../assets/images/rub_foam.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Clean the headlight with soap and water.<br />
+<img src="../../../../assets/images/soap_clean.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Dry it with a paper towel.<br />
+<img src="../../../../assets/images/towel_dry.png" style="zoom:50%;" /><br /><br /></li>
+  <li>This is what is looks like when it is dry. It may look more opaque and worse than what it is before. But it’s okay.<br />
+<img src="../../../../assets/images/air_dry.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Wrap the foam with non-woven towel. Drop the silica resin liquid on it.<br />
+<img src="../../../../assets/images/place_foam.png" style="zoom:50%;" /><br /><br />
+<img src="../../../../assets/images/wrap_foam.png" style="zoom:50%;" /><br /><br />
+<img src="../../../../assets/images/drop_product.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Gently wipe the headlight with the towel. Make sure you do it evenly all over the surface.<br />
+<img src="../../../../assets/images/wipe_product.png" style="zoom:50%;" /><br /><br /></li>
+  <li>This is what it looks like after applying with the product. Leave it air dry. You can repeat applying with the silica resin product 2-3 times until you get the desired outcome.<br />
+<img src="../../../../assets/images/after.png" style="zoom:50%;" /><br /><br /></li>
+  <li>This is after repeating the same steps on the other headlight.<br />
+<img src="../../../../assets/images/after_other.png" style="zoom:50%;" /><br /><br /></li>
+  <li>Please make sure not to wet the headlights with water for 48 hours after the process. Otherwise, you might need to repeat the steps all over again.<br />
+<img src="../../../../assets/images/featured_image.png" style="zoom:50%;" /><br /><br />
+Thanks for reading. If you found a better product or a hack, please leave a comment by sending <a href="mailto:yethihahtwe319@gmail.com">email</a>.</li>
+</ol>]]></content><author><name></name></author><category term="python" /><summary type="html"><![CDATA[Today, I want to share with you how to restore your headlights using a GETSUN headlight renovation kit. I bought it from Mr.DIY and it was 69 THB. So it’s worth trying at home. I’m doing it in the middle of a rainy season when you don’t usually get a desired outcome mostly because of the humidity. I would recommend you to try this process when it is not raining or less humid. The concept of headlight renovation is abrasion. Almost all of the steps in headlight renovation include usage of abrasive materials. And of course, rubbing with sandpaper produces dust.To protect yourself from inhaling dust and to keep the entire process tidy, spray water before, during and after rubbing with sandpaper.]]></summary></entry><entry><title type="html">DIY Headlight Renovation</title><link href="http://localhost:4000/thoughts-bin/diy/2023/06/25/headlight-renovation.html" rel="alternate" type="text/html" title="DIY Headlight Renovation" /><published>2023-06-25T17:30:21+07:00</published><updated>2023-06-25T17:30:21+07:00</updated><id>http://localhost:4000/thoughts-bin/diy/2023/06/25/headlight-renovation</id><content type="html" xml:base="http://localhost:4000/thoughts-bin/diy/2023/06/25/headlight-renovation.html"><![CDATA[<p><img src="../../../../assets/images/featured_image.png" style="zoom:50%" /><br /><br />
 Today, I want to share with you how to restore your headlights using a GETSUN headlight renovation kit. I bought it from Mr.DIY and it was 69 THB. So it’s worth trying at home.
 I’m doing it in the middle of a rainy season when you don’t usually get a desired outcome mostly because of the humidity. I would recommend you to try this process when it is not raining or less humid.
 The concept of headlight renovation is abrasion. Almost all of the steps in headlight renovation include usage of abrasive materials. And of course, rubbing with sandpaper produces dust.To protect yourself from inhaling dust and to keep the entire process tidy, spray water before, during and after rubbing with sandpaper.</p>
